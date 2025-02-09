@@ -1,4 +1,4 @@
-# Bully Algorithm Client Implementation (lab2.py)
+# Bully Algorithm Client Implementation 
 
 ## Project Overview
 This project implements the client-side of a group of nodes that participate in leader election using the **Bully Algorithm**. The nodes communicate with a central **Group Coordinator Daemon (GCD)** to initiate and carry out leader elections, allowing them to handle leader failures and ensure a stable, fault-tolerant system.
